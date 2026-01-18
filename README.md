@@ -1,7 +1,5 @@
 # Arsha
 
-## [Demo](https://mahmoud-abuyoussef.github.io/Arsha/)
-
 ## Tech Stack
 
 - ### Languages
